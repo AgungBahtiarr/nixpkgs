@@ -13,3 +13,6 @@ https://zero-to-nix.com/
 
 # Show desktop icon
 add export XDG_DATA_DIRS="/home/$USER/.nix-profile/share:$XDG_DATA_DIRS" to your ~/.profile
+
+# nix-store milik bersama 
+/etc/nix/nix.conf >> https://cache.komunix.org/ https://cache.nixos.org/
