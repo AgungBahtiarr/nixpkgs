@@ -2,6 +2,9 @@
 
 Resource untuk setup nix
 
+# nixpkgs installation
+sh <(curl -L https://nixos.org/nix/install) --no-daemon
+
 # home-manager manual
 https://rycee.gitlab.io/home-manager/
 
