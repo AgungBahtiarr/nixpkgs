@@ -31,8 +31,18 @@
 
   # GUI
   home.packages = [
+
+    # General
     pkgs.winbox
-    pkgs.vscodium
     pkgs.chromium
+  
+    # Development tool
+    pkgs.vscodium
+
+    # Design tool
+    pkgs.inkscape
+    pkgs.gimp
+    
+
   ];
 }
