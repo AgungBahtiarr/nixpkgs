@@ -16,3 +16,6 @@ add export XDG_DATA_DIRS="/home/$USER/.nix-profile/share:$XDG_DATA_DIRS" to your
 
 # nix-store milik bersama 
 /etc/nix/nix.conf >> https://cache.komunix.org/ https://cache.nixos.org/
+
+#Things to do after installing nixos from itsfoss
+https://itsfoss.com/things-to-do-after-installing-nixos/
